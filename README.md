@@ -2,12 +2,12 @@
 
 **`Junior Developer`**
 
-Hi! I'm a Junior Developer
+Hi! I'm currently a computer science student who just started my journey in programming with a dream to develop future apps and making a mark in the digital world! I'm passionate in programming and currently diving myself into some intermediate python concepts as well as some javascript projects.
 
 ---
 
 [//]: https://devicon.dev/ 
-### 🧰 Languages and Tools 
+### 🧰 Programming Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
